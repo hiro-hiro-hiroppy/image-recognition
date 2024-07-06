@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "c:\\Users\\HIROYUKI\\anaconda3\\envs\\ai-env\\Lib\\site-packages"
+    ]
+}
